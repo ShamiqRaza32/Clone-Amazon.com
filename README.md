@@ -6,3 +6,4 @@ Add amazon logo
 <br>
 Add a cards
 <br>
+completed amazon clone
