@@ -4,3 +4,5 @@ Add navbar
 <br>
 Add amazon logo
 <br>
+Add a cards
+<br>
